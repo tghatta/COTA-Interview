@@ -1,4 +1,4 @@
-# COTA-Interview
+# 
 
 
 #This program processes a pre-sorted list of string, divides it into three cols, and print the elements in 3column table. The list is also capable enough to divide as evenly as possible, regardless of it being divisible by 3.
